@@ -1,4 +1,5 @@
 "Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;", , ";"";3;"";;;
 2;"C1, C8";"C_1206_3216Metric";2;"10uF";;;
 3;"C2, C14";"C_1206_3216Metric";2;"4.7uF";;;
 4;"C3, C7, C13";"C_0805_2012Metric";3;"100 nF";;;
